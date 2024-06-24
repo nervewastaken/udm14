@@ -1,7 +1,14 @@
 # &udm=14 Website
 
-Hey all, this is a basic website that allows for very easy searches of Google with the &udm=14 parameter already added. This parameter allows for searches that are AI-free and bereft of knowledge panels, but are buried in Google’s interface. I decided to offer a simple way to reach them. This version of the website does not include a single-line Plausible tracking code included on the production website that is used for anonymized analytics.
+This was a ease of use project for me so I could make &udm=14 look more like my normal home page, its just for fun you can implement this too in your own way 
 
-Check out [my post about this feature](https://tedium.co/2024/05/17/google-web-search-make-default/), and why it matters.
+```bash
+git clone
+```
+you can change wallpapers using basic html 
+change icon by renaming your icon image to favicon and replacing it in the folder, 
+use live server if you want an instance running 
+or deploy to vercel or some other free hosting platform to connect it on startup
 
-- Ernie Smith, editor of [Tedium](https://tedium.co)
+
+Created by-  Ernie Smith, editor of [Tedium](https://tedium.co)
